@@ -20,3 +20,10 @@ tasktracker-projeto/
 │   └── planejamento_logico.pdf
 └── src/
     └── main.py
+
+
+## 🐳 Como Executar com Docker
+
+1. **Construir a imagem:**
+   ```bash
+   docker build -t tasktracker-app .
